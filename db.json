@@ -1,0 +1,20 @@
+{
+  const exampleProjects = [
+  {
+    title: "FreshFridge",
+    info: "In my ECE 196 Engineering Hands-On Project course, I was lead programmer for our team project. I worked with two electrical engineers to develop a product called FreshFridge that involved hardware and software connections to support our communities. We developed a storage container that could detect the spoilage of food using gas sensors, and deliver the sensors determinations in real time to the website I developed.",
+    smallPicSrc: "images/freshfridge/projectpic.jpg",
+    largePicSrc: "images/freshfridge/projectpic.jpg",
+    alt: "Screenshot of the FreshFridge project page displaying the health status of a banana.",
+    contentLink: "https://alexpazcodesucsd.github.io/FreshFridge/"
+  },
+  {
+    title: "FreshFridge2",
+    info: "In my ECE 196 Engineering Hands-On Project course, I was lead programmer for our team project. I worked with two electrical engineers to develop a product called FreshFridge that involved hardware and software connections to support our communities. We developed a storage container that could detect the spoilage of food using gas sensors, and deliver the sensors determinations in real time to the website I developed.",
+    smallPicSrc: "images/freshfridge/projectpic.jpg",
+    largePicSrc: "images/freshfridge/projectpic.jpg",
+    alt: "Screenshot of the FreshFridge project page displaying the health status of a banana.",
+    contentLink: "https://alexpazcodesucsd.github.io/FreshFridge/"
+  }
+  ];
+}

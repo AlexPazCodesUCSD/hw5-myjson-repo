@@ -1,6 +1,14 @@
 {
   "exampleProjects" : [
     {
+      "title": "Scratch Lessons",
+      "info": "Currently, in my EDS 124BR course on Teaching Computational Thinking, I am developing experience explaining and teaching simple to complex introductory concepts in Computer Science using Scratch. I have also taken EDS 124AR where I learned more about teaching CS to K-12 students. I feel passionate about becoming a CS teacher and helping bring CS lessons to all schools. I have linked one of my lessons here.",
+      "smallPicSrc": "images/scratch/scratchpic.jpg",
+      "largePicSrc": "images/scratch/scratchpic.jpg",
+      "alt": "Screenshot of my scratch lesson.",
+      "contentLink": "https://www.youtube.com/watch?v=5D22etKZ6XY&ab_channel=JorgePaz"
+    },
+    {
       "title": "FreshFridge",
       "info": "In my ECE 196 Engineering Hands-On Project course, I was lead programmer for our team project. I worked with two electrical engineers to develop a product called FreshFridge that involved hardware and software connections to support our communities. We developed a storage container that could detect the spoilage of food using gas sensors, and deliver the sensors determinations in real time to the website I developed.",
       "smallPicSrc": "images/freshfridge/projectpic.jpg",
@@ -23,14 +31,6 @@
       "largePicSrc": "images/cogs3/projectpic.jpg",
       "alt": "A screenshot of my portfolio site.",
       "contentLink": "https://alexpazcodesucsd.github.io/"
-      },
-      {
-        "title": "Scratch Lessons",
-        "info": "Currently, in my EDS 124BR course on Teaching Computational Thinking, I am developing experience explaining and teaching simple to complex introductory concepts in Computer Science using Scratch. I have also taken EDS 124AR where I learned more about teaching CS to K-12 students. I feel passionate about becoming a CS teacher and helping bring CS lessons to all schools. I have linked one of my lessons here.",
-        "smallPicSrc": "images/scratch/scratchpic.jpg",
-        "largePicSrc": "images/scratch/scratchpic.jpg",
-        "alt": "Screenshot of my scratch lesson.",
-        "contentLink": "https://www.youtube.com/watch?v=5D22etKZ6XY&ab_channel=JorgePaz"
       },
       {
         "title": "Web Dev K-12 Lesson",
